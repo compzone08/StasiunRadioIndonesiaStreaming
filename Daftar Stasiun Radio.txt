@@ -1,3 +1,8 @@
+Impor file RadioStreamingIndonesiaList ke aplikasi yang mendukung format streaming m3u
+PC/Laptop: Foobar2000
+Android: AIMP
+
+Daftar Stasiun Radio
 
 87.7 Hardrock FM Bandung
 93.7 FM PARAMUDA BANDUNG
@@ -145,5 +150,3 @@ V Radio Jakarta 106.6 FM
 Virgin Radio Jakarta 99.9 FM
 Warastra FeMale 90 FM Palembang
 XChannel 94.3 FM Jakarta
-
-
